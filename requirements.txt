@@ -1,0 +1,8 @@
+Flask
+Werkzeug
+flask-http-middleware
+flask-cors
+python-dotenv
+FlightRadarAPI
+Flask-Cors
+mysql-connector-python-rf
